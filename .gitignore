@@ -10,3 +10,5 @@ obj
 packages
 /.vs/CommerceApplication/v16/TestStore/0
 /CommerceApplication/temp
+/.vs/CommerceApplication/config
+/AppCoverageReport
